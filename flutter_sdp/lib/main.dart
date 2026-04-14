@@ -19,6 +19,3 @@ class SquatApp extends StatelessWidget {
     );
   }
 }
-
-
-hello
